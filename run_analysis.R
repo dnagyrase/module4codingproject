@@ -7,6 +7,11 @@
 #   resulting tidy data to a file named "tidy_data.txt".
 #   See README.md for details.
 #
+# Before any steps, a dylpr library has to be installed to run this code:
+install.packages("dplyr")
+#
+#
+#
 # STEP 1: GETTING THE DATA
 # download zip file containing data
 zUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
