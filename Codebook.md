@@ -19,6 +19,7 @@ The tidy_data.txt data file is a text file, containing values that are space-sep
 The first row contains the names of the variables, which are listed and described in the Variables section, and the following rows contain the values of these variables.
 
 Variables
+(Refer to UCI HAR website as reference to wear information about variables below was collected)
 
 Each row contains, for a given subject and activity, 79 averaged signal measurements.
 
